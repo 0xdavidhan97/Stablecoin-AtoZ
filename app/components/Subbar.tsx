@@ -3,7 +3,7 @@ const tags = ["#Blockchain", "#Stablecoin", "x402"];
 export default function Subbar() {
   return (
     <div
-      className="bg-[#D9D9D9] mx-[6px] rounded-[5px] flex flex-col gap-2 px-3 py-2 md:h-8 md:flex-row md:items-center md:justify-between md:px-0 md:py-0"
+      className="bg-[#D9D9D9] mx-[6px] mt-[11px] rounded-[5px] flex flex-col gap-2 px-3 py-2 md:h-8 md:flex-row md:items-center md:justify-between md:px-0 md:py-0"
     >
       <span
         className="text-[#575757] text-[11px] leading-none pl-3 md:text-[14px] md:pl-[18px]"
